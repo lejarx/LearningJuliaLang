@@ -32,3 +32,6 @@ end
 println("Is ", 17 , " prime? ", is_prime(17))
 println("Is ", 18 , " prime? ", is_prime(18))
 println("Is ", 19 , " prime? ", is_prime(19))
+
+# main v1.2
+include("quadratic.jl")
